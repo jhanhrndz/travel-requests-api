@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tFLM+QLClETwnbGAxalZmQTlaIhCuxBkrCP6el644ng=",
+  "Source": "TravelRequests.Api",
+  "BasePath": "_content/TravelRequests.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
